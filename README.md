@@ -1,6 +1,7 @@
+### Final Project
 ## Collab
 
-### Final Project
+
 
 Together with my two other team members, we created Collab - a web application allowing social media influencers to connect and collaborate with photographers. Influencers can upload a photo they have in mind, and Collab will return a match of photographers whose portfolio have similar content using an image analysis technology and elasticsearch database. This project was completed within 10 days.
 
